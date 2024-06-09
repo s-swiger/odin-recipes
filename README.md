@@ -1,3 +1,3 @@
 # odin-recipes
 
-Old school pic link site
+BRISKET! PIZZA! TACOS!
