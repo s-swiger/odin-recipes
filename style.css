@@ -2,8 +2,29 @@ h1 {
     background-color: black;
     color: white;
     font-size: 48px;
+    margin-bottom: 10px;
+    width: 928px;
+    text-align: center;
+    padding: 8px 0px;
 }
 
-li {
+.container {
+    display: inline-block;
+    margin-bottom: 0px;
+    text-decoration: none;
+}
+
+button {
     font-size: 20px;
+    background-color: gold;
+    padding: 8px;
+}
+
+button:hover
+{
+    background-color: red;
+}
+
+a {
+    text-decoration: none;
 }
